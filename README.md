@@ -1,83 +1,35 @@
-# 👋 Hi, I'm Nabeel Daruwala
+# 👋 Nabeel Daruwala
 
-## 🚀 Who am I?
+🚀 **Junior Frontend Developer | AI-Aware Builder**
 
-I'm a passionate Junior Frontend Developer based in the UK, currently focused on building responsive and user-friendly web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I'm continuously improving my skills in modern web development and UI/UX design.
-
-I also have experience in graphic design, which helps me create visually appealing and engaging user interfaces.
-
----
-
-## 💻 What am I currently working on?
-
-* Building Frontend Websites with full functionality.
-* Improving my skills in React and Node.js.
-* Creating portfolio projects to land a junior developer role.
-* Learning UI/UX design principles to enhance user experience.
-* Exploring AI tools (like Claude AI to improve productivity and development workflow.
+💻 I build clean, responsive web applications and integrate modern tools to improve performance and user experience.
+⚡ Currently leveling up in **React, Node.js, UI/UX & AI-powered workflows**
 
 ---
 
-## 🛠️ Tools & Technologies I Use
+### 🧠 Core Skills
 
-### 👨‍💻 Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-
-### ⚙️ Backend & Database
-
-* Node.js (learning)
-* MongoDB
-
-### 🎨 Design & Creativity
-
-* Adobe Illustrator
-* Adobe Photoshop
-* Canva
-* CorelDRAW
-
-### 🧰 Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Claude AI
-* Figma (learning)
+**Frontend:** HTML • CSS • JavaScript
+**Backend (Learning):** Node.js • MongoDB
+**AI Tools:** Claude AI • ChatGPT • AI-assisted development
+**Design:** Figma • Photoshop • Illustrator • Canva
+**Tools:** Git • GitHub • VS Code
 
 ---
 
-## 📬 How to reach me?
+### 🎯 Focus
 
-* 📧 Email: azadaruwala@gmail.com
-* 💼 LinkedIn: www.linkedin.com/in/nabeel-daruwala-864b0535a
-* 🌐 Portfolio: 
-
----
-
-## ✨ Goals
-
-* Become a job-ready Frontend Developer
-* Build a strong portfolio that stands out to recruiters
-* Land a junior developer role in a top company
-* Continue learning and growing in tech 🚀
+* Building real-world projects
+* Creating a strong developer portfolio
+* Landing a **Frontend / Full Stack Developer role**
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+### 📬 Connect
 
+💼 LinkedIn 
+🌐 Portfolio (Coming Soon)
 
-<!--
-**Nabeel7221/Nabeel7221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Focused on growth. Building every day.*
