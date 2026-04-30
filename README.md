@@ -35,7 +35,7 @@ To become a skilled Frontend Developer and build impactful digital products
 
 ---
 
-###📬 Connect
+##📬 Connect
 
 💼 LinkedIn
 🌐 Portfolio (Coming Soon)
