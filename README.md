@@ -10,9 +10,13 @@ I enjoy turning ideas into real, working products using modern web technologies 
 ### 🛠️ What I work with
 
 **Frontend:** HTML • CSS • JavaScript
+
 **Backend (learning):** Node.js • MongoDB
+
 **AI:** ChatGPT • Claude AI (for smarter development workflows)
+
 **Design:** Figma • Photoshop • Illustrator • Canva
+
 **Tools:** Git • GitHub • VS Code
 
 ---
