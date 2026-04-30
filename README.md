@@ -1,35 +1,40 @@
-# 👋 Nabeel Daruwala
+# 👋 I'm Nabeel Daruwala
 
-🚀 **Junior Frontend Developer | AI-Aware Builder**
+💻 I build responsive, clean, and user-friendly web applications
+🚀 Junior Frontend Developer based in the UK
 
-💻 I build clean, responsive web applications and integrate modern tools to improve performance and user experience.
-⚡ Currently leveling up in **React, Node.js, UI/UX & AI-powered workflows**
+I enjoy turning ideas into real, working products using modern web technologies and AI-powered tools.
 
 ---
 
-### 🧠 Core Skills
+### 🛠️ What I work with
 
 **Frontend:** HTML • CSS • JavaScript
-**Backend (Learning):** Node.js • MongoDB
-**AI Tools:** Claude AI • ChatGPT • AI-assisted development
+**Backend (learning):** Node.js • MongoDB
+**AI:** ChatGPT • Claude AI (for smarter development workflows)
 **Design:** Figma • Photoshop • Illustrator • Canva
 **Tools:** Git • GitHub • VS Code
 
 ---
 
-### 🎯 Focus
+### ⚡ What I'm doing now
 
 * Building real-world projects
-* Creating a strong developer portfolio
-* Landing a **Frontend / Full Stack Developer role**
+* Learning React & improving backend skills
+* Growing towards Full Stack Development
 
 ---
 
-### 📬 Connect
+### 🎯 Goal
 
-💼 LinkedIn 
+To become a skilled Frontend Developer and build impactful digital products
+
+---
+
+###📬 Connect
+
+💼 LinkedIn
 🌐 Portfolio (Coming Soon)
-
 ---
 
-⭐ *Focused on growth. Building every day.*
+⭐ *I build. I learn. I improve—every single day.*
